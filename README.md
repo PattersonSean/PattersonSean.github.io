@@ -1,4 +1,3 @@
-# iTzDizzyShot.github.io
 # About Me
 My name is Sean Patterson. I'm an aspiring IT cybersecurity professional with interests in SOC operations, network security, and ethical hacking.
 
@@ -27,4 +26,4 @@ My name is Sean Patterson. I'm an aspiring IT cybersecurity professional with in
 
 ## Connect with me
 - LinkedIn: https://www.linkedin.com/in/sean-patterson-5b70a5374/
-- Email: soccerlover1974@gmail.com
+- Business Email: patterson.m.sean@gmail.com
