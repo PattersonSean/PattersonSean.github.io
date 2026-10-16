@@ -8,8 +8,9 @@ My name is Sean Patterson. I'm an aspiring IT cybersecurity professional with in
 - Windows Administration (Active Directory in Windows Server 2022)
  
 ## Technical Skills
-- Python
 - Linux
+- Cisco Packet Tracer
+- Python
 - Windows Administration
 - Networking
 - Wireshark
